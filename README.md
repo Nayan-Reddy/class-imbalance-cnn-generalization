@@ -28,6 +28,7 @@ Across all experiments, increasing class imbalance led to a gradual decline in o
 
 ## Results
 The figure below summarizes the relationship between minority class retention and model performance. While test accuracy decreases gradually as imbalance increases, macro averaged F1 score exhibits a more pronounced decline, highlighting differences between aggregate and class sensitive evaluation metrics under imbalanced data distributions.
+
 ![Impact of Class Imbalance on Generalization](results/accuracy_macro_f1.png)
 
 ## Limitations
